@@ -108,8 +108,8 @@ It is recommend using Firefox, as the Chrome browser reports an error when creat
 	</blockquote>
 <blockquote>
 		Video tutorial:
-		<a href="https://www.youtube.com/watch?v=7-tC9O_b-nI&feature=youtu.be" >
-			https://www.youtube.com/watch?v=7-tC9O_b-nI&feature=youtu.be
+		<a href="https://youtu.be/oIfUPcJm6Og" >
+			https://youtu.be/oIfUPcJm6Og
 		</a>
 	</blockquote>
 <b>Francesco Lorenzo</b>: 
