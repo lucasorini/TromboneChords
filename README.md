@@ -102,8 +102,8 @@ It is recommend using Firefox, as the Chrome browser reports an error when creat
 
 <blockquote>
 		Project link:
-		<a href="http://flappybone.surge.sh/" >
-			http://flappybone.surge.sh/
+		<a href="https://lucasorini.github.io/TromboneChords/Project/index.html" >
+			https://lucasorini.github.io/TromboneChords/Project/index.html
 		</a>
 	</blockquote>
 <blockquote>
